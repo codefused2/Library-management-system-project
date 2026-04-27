@@ -28,7 +28,8 @@ Username: admin
 Password: admin123
 
 - Customer login:
-Customer 1: 
+  
+Customer 1:
 Username: Yousef 
 Password: yousef1
 
@@ -47,6 +48,7 @@ Password: sasa4
 Customer 5: 
 Username: Adham 
 Password: adham5 
+
 After logging into the system, an options menu will appear to you 
 depending on whether you are a librarian or a customer, all you have to 
 do is choosing an option and follow the prompts.
